@@ -12,6 +12,10 @@ h1 {
   margin-right: auto;
   background-color: white;
 }
+#moustache_image{    
+  margin-top: 190px;
+  margin-left: 90px;   
+}
 
 #potato img {
   position: absolute;
