@@ -12,6 +12,10 @@ h1 {
   margin-right: auto;
   background-color: white;
 }
+#moustache_image{    
+  margin-top: 190px;
+  margin-left: 90px;   
+}
 
 #potato img {
   position: absolute;
@@ -27,12 +31,14 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
+#ears_image{    
+  margin-left: 55px;
+  margin-top: 100px;   
 
-
+}
 
 
 /* Insert CSS for eyes below this line*/
-
 
 
 
@@ -53,6 +59,11 @@ h1 {
 
 /* Insert CSS for glasses below this line*/
 
+#glasses_image {
+position:absolute;
+margin-top:20px;
+margin-left:90px;
+}
 
 
 
